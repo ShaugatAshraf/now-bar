@@ -1,30 +1,44 @@
 [
   {
-    "name": "Dhaka",
-    "lat": 23.8103,
-    "lng": 90.4125,
+    "name": "Sylhet",
+    "lat": 24.8949,
+    "lng": 91.8687,
     "type": "home",
-    "story": "Born and grew up here."
+    "story": "This is my home."
+  },
+  {
+    "name": "Shillong",
+    "lat": 25.5788,
+    "lng": 91.8933,
+    "type": "travel",
+    "story": "Visited Shillong in 2024."
+  },
+  {
+    "name": "Darjeeling",
+    "lat": 27.0360,
+    "lng": 88.2627,
+    "type": "travel",
+    "story": "Visited Darjeeling in 2023."
+  },
+  {
+    "name": "Kathmandu",
+    "lat": 27.7172,
+    "lng": 85.3240,
+    "type": "travel",
+    "story": "Visited Kathmandu in 2024."
   },
   {
     "name": "Makkah",
     "lat": 21.3891,
     "lng": 39.8579,
-    "type": "trip",
-    "story": "Umrah pilgrimage, March 2025."
-  },
-  {
-    "name": "Berlin",
-    "lat": 52.5200,
-    "lng": 13.4050,
     "type": "travel",
-    "story": "Attended a conference here."
+    "story": "Visited Makkah in 2025."
   },
   {
-    "name": "Flight Dhaka → Berlin",
-    "start": [23.8103, 90.4125],
-    "end": [52.5200, 13.4050],
-    "type": "flight",
-    "control": [40.0, 50.0]
-  }
+    "name": "Medina",
+    "lat": 24.5247,
+    "lng": 39.5692,
+    "type": "travel",
+    "story": "Visited Medina in 2025."
+  },
 ]
