@@ -1,5 +1,28 @@
-{
-  "location": "Dhaka",
-  "working": "FluentCart Beta",
-  "reading": "Boi porina"
-}
+[
+  {
+    "name": "Dhaka",
+    "lat": 23.8103,
+    "lng": 90.4125,
+    "type": "home",
+    "story": "Born and grew up here."
+  },
+  {
+    "name": "Makkah",
+    "lat": 21.3891,
+    "lng": 39.8579,
+    "type": "trip",
+    "story": "Umrah pilgrimage, March 2025."
+  },
+  {
+    "name": "Berlin",
+    "lat": 52.5200,
+    "lng": 13.4050,
+    "type": "travel",
+    "story": "Attended a conference here."
+  },
+  {
+    "name": "Flight Dhaka → Berlin",
+    "coords": [[23.8103, 90.4125],[52.5200,13.4050]],
+    "type": "flight"
+  }
+]
