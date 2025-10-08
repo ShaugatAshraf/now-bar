@@ -21,8 +21,9 @@
     "story": "Attended a conference here."
   },
   {
-    "name": "Flight Dhaka → Berlin",
-    "coords": [[23.8103, 90.4125],[52.5200,13.4050]],
-    "type": "flight"
-  }
-]
+  "name": "Flight Dhaka → Berlin",
+  "start": [23.8103, 90.4125],
+  "end": [52.5200, 13.4050],
+  "type": "flight",
+  "control": [40.0, 50.0]
+}
