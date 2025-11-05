@@ -1,5 +1,12 @@
 [
   {
+    "name": "Kassel",
+    "lat": 51.3119,
+    "lng": 9.4916,
+    "type": "study",
+    "story": "Doing my second Master's here."
+  },
+  {
     "name": "Sylhet",
     "lat": 24.8949,
     "lng": 91.8687,
