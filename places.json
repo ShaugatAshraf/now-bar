@@ -1,5 +1,12 @@
 [
   {
+    "name": "Kythira",
+    "lat": 36.291299,
+    "lng": 22.953983,
+    "type": "travel",
+    "story": "Monthlong summer vacation at a beautiful island"
+  },
+  {
     "name": "Kassel",
     "lat": 51.3119,
     "lng": 9.4916,
