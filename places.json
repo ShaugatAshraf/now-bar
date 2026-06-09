@@ -1,5 +1,12 @@
 [
   {
+    "name": "Kraków",
+    "lat": 50.0647,
+    "lng": 19.9450,
+    "type": "travel",
+    "story": "Volunteered at WordCamp Europe 2026"
+  },
+  {
     "name": "Kythira",
     "lat": 36.291299,
     "lng": 22.953983,
